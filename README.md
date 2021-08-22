@@ -7,7 +7,8 @@ Run [Hashcat](https://hashcat.net) on [Google Colab](https://colab.research.goog
 Original: https://github.com/someshkar/colabcat
 
 My changes:
--unzipping rockyou
+-unzipping rockyou   
+-future: adding wordlists I need  
 
 ## Usage
 
