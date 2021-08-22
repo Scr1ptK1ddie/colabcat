@@ -4,6 +4,11 @@ Run [Hashcat](https://hashcat.net) on [Google Colab](https://colab.research.goog
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scr1ptK1ddie/colabcat/blob/master/colabcat.ipynb)
 
+Original: https://github.com/someshkar/colabcat
+
+My changes:
+-unzipping rockyou
+
 ## Usage
 
 - Go to the link below to open a copy of the `colabcat.ipynb` file in Google Colab:
